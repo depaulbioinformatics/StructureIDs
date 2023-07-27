@@ -1,6 +1,9 @@
 # StructureIDs
 ---
 
+# Note: This repo is just documentation, source code can be found at: https://github.com/vfdizon/StructureIDs
+
+---
 ## Description
 A Collection of Go programs to help in the analysis of Structure ID gene pairs. 
 
